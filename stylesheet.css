@@ -1,0 +1,62 @@
+body {
+  background: linear-gradient(325deg, #222222, #666666);
+  font-family: Tahoma, Geneva, sans-serif;
+
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#title {
+  font-family: 'Red Rose', cursive;
+  font-size: 50px;
+  text-align: center;
+}
+
+#img-div {
+  background: #111111;
+
+}
+
+#image {
+  border-radius: 10px;
+  padding: 20px;
+  margin: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+#img-caption {
+  color: #cccc00;
+  font-size: 18px;
+  padding-bottom: 20px;
+  margin-top: -2px;
+  text-align: center;
+  font-family: red rose;
+}
+
+#tribute-info {
+  margin-left: 75px;
+  margin-right: 75px;
+  margin-top: 40px;
+  margin-bottom: 10px;
+  background-color: rgba(225, 255, 255, 0.5);
+  padding: 20px;
+}
+
+.tribute-link {
+  background-color: #000000;
+  color: #FFFFFF;
+  margin: 0px;
+  height: 40px;
+  padding-top: 12px;
+  font-family: red rose;
+}
+
+a {
+  color: #CCCC00;
+}
